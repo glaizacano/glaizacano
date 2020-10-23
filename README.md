@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Glaiza!
+
+- 🔭 I’m currently working on a revamped implementation of the classic game, Gold Miner.
+- 🌱 I’m currently learning Object-Oriented Programming with C# and C++, and Back-end Web Development with PHP and MySQL.
+
+![Github Stats Card](https://github-readme-stats.vercel.app/api?username=glaizacano&count_private=true&show_icons=true&theme=react&hide=stars,prs,issues)
+![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=glaizacano&layout=compact&count_private=true&theme=react&hide=visual%20basic%20.net,shell,hack)
 
 <!--
 **glaizacano/glaizacano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
