@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Glaiza!
 
-- 👩‍💻 I’m currently working on my portfolio website.
+- 👩‍💻 I’m currently working on a the front-end develpment of a payroll and HR software, smec.io.
 - 🌱 I’m currently learning Full-stack Web Development.
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=glaizacano&count_private=true&show_icons=true&theme=react&hide=stars,prs,issues)
