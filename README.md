@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Glaiza!
 
-- 👩‍💻 I’m currently working on a the front-end develpment of a payroll and HR software, smec.io.
-- 🌱 I’m currently learning Full-stack Web Development.
+- 👩‍💻 I’m currently interning remotely as a Full-stack Developer at Suria Labs.
+- 🌱 I’m currently learning React.js and Ruby on Rails.
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=glaizacano&count_private=true&show_icons=true&theme=react&hide=stars,prs,issues)
 ![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=glaizacano&layout=compact&count_private=true&theme=react&hide=visual%20basic%20.net,shell,hack)
