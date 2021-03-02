@@ -2,6 +2,8 @@
 
 - 👩‍💻 I’m currently interning remotely as a Full-stack Developer at Suria Labs.
 - 🌱 I’m currently learning React.js and Ruby on Rails.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/glaizacano/) | [Twitter](https://twitter.com/glaizacano)
+
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=glaizacano&count_private=true&show_icons=true&theme=react&hide=stars,prs,issues)
 ![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=glaizacano&layout=compact&count_private=true&theme=react&hide=visual%20basic%20.net,shell,hack)
