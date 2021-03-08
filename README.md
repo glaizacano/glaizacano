@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Glaiza!
 
-- 👩‍💻 I’m currently working as a Support Developer at the Digital, Design and Innovation branch of the Department of Premier and Cabinet (Vic).
+- 👩‍💻 I’m currently working as a Support Developer at the Digital, Design and Innovation, Department of Premier and Cabinet Victoria.
 - 🌱 I’m currently learning Vue.js.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/glaizacano/) | [Twitter](https://twitter.com/glaizacano)
 
