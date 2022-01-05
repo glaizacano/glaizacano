@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Glaiza!
 
 - 👩🏻‍💻 I’m currently working as a Support Developer for the Digital Victoria branch of the Department of Premier and Cabinet (Victoria).
-- 🌱 I’m currently learning JavaScript, React.js, Typescript, and Drupal.
+- 🌱 I’m currently learning Python, JavaScript and React.js.
 - 📫 How to reach me: [Linktree](https://linktr.ee/glaizacano) | [LinkedIn](https://www.linkedin.com/in/glaizacano/) | [Website](https://www.glaizacano.com/)
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=glaizacano&count_private=true&show_icons=true&theme=react&hide=issues)
