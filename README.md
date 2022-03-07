@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Glaiza!
 
-- 👩🏻‍💻 I’m currently working as a Support Developer for the Digital Victoria branch of the Department of Premier and Cabinet (Victoria).
+- 👩🏻‍💻 I’m a final year Bachelor of Computer Science student at Swinburne Univesity of Technology.
 - 🌱 I’m currently learning Python, JavaScript and React.js.
 - 📫 How to reach me: [Linktree](https://linktr.ee/glaizacano) | [LinkedIn](https://www.linkedin.com/in/glaizacano/) | [Website](https://www.glaizacano.com/)
 
