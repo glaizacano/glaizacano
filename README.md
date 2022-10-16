@@ -100,7 +100,7 @@
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats-glaizacano.vercel.app/api/top-langs/?username=glaizacano&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&count_private=true&hide=visual%20basic%20.net,shell,hack#gh-light-mode-only" alt="Glaiza Cano's Language stats" />
+  <img height=200 src="https://github-readme-stats-glaizacano.vercel.app/api/top-langs/?username=glaizacano&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&count_private=true&hide=visual%20basic%20.net,shell,hack&exclude_repo=QuickSnap,battleship-game,github-readme-stats#gh-light-mode-only" alt="Glaiza Cano's Language stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats-glaizacano.vercel.app/api?username=glaizacano&show_icons=true&count_private=true&line_height=28&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&show_icons=true&hide=issues#gh-light-mode-only" alt="Glaiza Cano's GitHub stats" />
@@ -110,7 +110,7 @@
 <!-- Dark Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats-glaizacano.vercel.app/api/top-langs/?username=glaizacano&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&count_private=true&theme=react&hide=visual%20basic%20.net,shell,hack#gh-dark-mode-only" alt="Glaiza Cano's Language stats" />
+  <img height=200 src="https://github-readme-stats-glaizacano.vercel.app/api/top-langs/?username=glaizacano&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&count_private=true&theme=react&hide=visual%20basic%20.net,shell,hack&exclude_repo=QuickSnap,battleship-game,github-readme-stats#gh-dark-mode-only" alt="Glaiza Cano's Language stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats-glaizacano.vercel.app/api?username=glaizacano&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react#gh-dark-mode-only" alt="Glaiza Cano's GitHub stats" />
